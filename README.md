@@ -1,2 +1,2 @@
 # landing-page
-first task landing page using html css
+First task landing page using html and css
